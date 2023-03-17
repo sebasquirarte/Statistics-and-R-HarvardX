@@ -10,11 +10,11 @@ We will learn the basics of statistical inference in order to understand and com
 
 ## Themes 
 
-> Random variables
-> Distributions
-> Inference: p-values and confidence intervals
-> Exploratory Data Analysis
-> Non-parametric statistics
+- Random variables
+- Distributions
+- Inference: p-values and confidence intervals
+- Exploratory Data Analysis
+- Non-parametric statistics
 
 ## Link to Course 
 
